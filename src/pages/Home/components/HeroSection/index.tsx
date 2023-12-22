@@ -25,7 +25,7 @@ export function HeroSection() {
             <li>
               <p>
                 <span>
-                  <Timer weight="fill" size={16} />
+                  <Package weight="fill" size={16} />
                 </span>
                 Compra simples e segura
               </p>
@@ -33,7 +33,7 @@ export function HeroSection() {
             <li>
               <p>
                 <span>
-                  <Package weight="fill" size={16} />
+                  <Timer weight="fill" size={16} />
                 </span>
                 Compra simples e segura
               </p>
